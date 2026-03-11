@@ -25,4 +25,4 @@ Used **SQL and Excel** to analyze telecom customer data and identify factors tha
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/your-linkedin
+LinkedIn: https://www.linkedin.com/in/pratiksha-rohankar-b334a03a5/
