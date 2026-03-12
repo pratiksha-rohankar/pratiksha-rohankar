@@ -12,7 +12,7 @@ https://github.com/pratiksha-rohankar/Bank-Loan-Performance-Analysis-
 
 **Online Retail Return Risk & Profitability Analysis**
 Explored retail transaction data using **Excel, SQL, and Power BI** to identify product return patterns and measure how returns impact profitability.
-
+https://github.com/pratiksha-rohankar/Online-Retail-Return-Risk-Profitability-Analysis
 
 **Telco Customer Churn Analysis**
 Used **SQL and Excel** to analyze telecom customer data and identify factors that contribute to higher churn rates.
