@@ -32,4 +32,4 @@ Used **SQL and Excel** to analyze telecom customer data and identify factors tha
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/pratiksha-rohankar-b334a03a5/
-GitHub: 
+GitHub: https://github.com/pratiksha-rohankar
